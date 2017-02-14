@@ -1,0 +1,25 @@
+body {
+  background-image:url("http://i.huffpost.com/gen/1730217/images/o-SURFING-WORKOUT-facebook.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+
+  color: yellow;
+  font-family: 'Sanchez', 'Abel';
+  font-size: 20px;
+}
+
+.KellySlater {
+  width: 200px;
+}
+
+.DaveKalama {
+  width: 200px;
+}
+
+.AndyIrons {
+  width: 200px;
+}
+
+.JayMoriarity {
+  width: 200px;
+}
